@@ -1,0 +1,154 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+[v-cloak] {
+  display: none;
+}
+#box {
+  background: #0c1248;
+  position: relative;
+}
+.z-ns1 {
+  width: 100%;
+  height:844px;
+}
+.z-ns1 .header {
+width: 100%;
+  background: #0c1248;
+  /* height: 100px; */
+  /* background: #0c1248; */
+  opacity: 0.9;
+  position: fixed;
+  top: 0;
+}
+.z-ns1 .header .icon {
+  width: 30%;
+  float: left;
+  margin-left: 100px;
+}
+.z-ns1 .header .header-right {
+  color: #fff;
+  line-height: 10px;
+  width: 60%;
+  float: left;
+}
+.z-ns1 .header .header-right li {
+  text-align: center;
+  width: 70px;
+}
+.z-ns1 .header .header-right li:hover {
+  color: #1b86f4;
+  border-bottom: 1px solid #1b86f4;
+}
+.z-ns1 .icon img {
+  width: 186px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+ul li {
+  float: left;
+  width: 100px;
+  height: 20px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.oBox {
+  height: 600px;
+  /* background: yellowgreen; */
+  /* margin-top: 58px; */
+}
+.oBox-l {
+  width: 50%;
+  height: 600px;
+  /* background: #ccc; */
+  float: left;
+  margin-top: 200px;
+}
+.oBox-r {
+  width: 50%;
+  height: 600px;
+  /* background: yellowgreen; */
+  float: left;
+  margin-top: 200px;
+}
+.oBox-title {
+  color: #fff;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.oBox-title a {
+  color: #1c8dff;
+}
+.oBox-cont {
+  font-size: 14px;
+  color: #fff;
+  margin-top: 30px;
+  line-height: 30px;
+  padding: 0 200px 0 100px;
+}
+.oBox-btn {
+  width: 160px;
+  height: 50px;
+  background: #0a6ef2;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  float: left;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.oBox-btn2 {
+  width: 160px;
+  height: 50px;
+  border: 1px solid #0a6ef2;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  float: left;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.no1 {
+  color: #fff;
+}
+.z-ns2-l {
+  width: 40%;
+  height: 500px;
+  float: left;
+}
+.z-ns2-r {
+  width: 60%;
+  height: 500px;
+  float: left;
+}
+.z-ns2-l-box {
+  width: 430px;
+  height: 400px;
+  background: linear-gradient(#102a64, #1a599e);
+  margin-left: 80px;
+  border-radius: 10px;
+}
+.z-ns3-l {
+  height: 400px;
+  width: 500px;
+  background: linear-gradient(#102a64, #1a599e);
+  margin-left: 130px;
+  margin-top: 50px;
+  border-radius: 10px;
+  float: left;
+}
+.z-ns3-r {
+    height: 400px;
+    width: 500px;
+    background: linear-gradient(#102a64, #1a599e);
+    margin-left: 130px;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+  }
