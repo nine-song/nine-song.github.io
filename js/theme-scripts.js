@@ -22,7 +22,7 @@ $(function() {
   });
 });
 
-// Owl carousel
+// Owl carousel.
 $('.owl-partners').owlCarousel({
     loop:true,
     margin:10,
